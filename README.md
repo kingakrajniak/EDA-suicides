@@ -21,6 +21,4 @@ Also learning how to use git and GitHub.
 Beginning, in progress...
 
 ## Sources
-Dataset: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
-
-Article: https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
+Dataset: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016  Article: https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce
