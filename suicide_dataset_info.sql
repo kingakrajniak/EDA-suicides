@@ -20,7 +20,7 @@ FIELDS TERMINATED BY ','
       # ESCAPED BY '"'
 LINES STARTING BY '"'
 	 TERMINATED BY '\r'
-IGNORE 1 ROWS;
+IGNORE 1 ROWS;  # last three columns merging into gdp_for_year_$; how to fix it?
 # (country, year, sex, age, suicides_no, population, suicides_per_100k_pop, country_year, HDI_for_year, gdp_for_year_$, gdp_per_capita_$, generation);
 
 SHOW GLOBAL VARIABLES LIKE 'local_infile';
