@@ -18,7 +18,7 @@ Also learning how to use git and GitHub.
 ## Features
 
 ## Status
-Beggining, in progress...
+Beginning, in progress...
 
 ## Sources
 Dataset: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
