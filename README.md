@@ -7,6 +7,7 @@ Also learning how to use git and GitHub.
 
 ## Technologies
 - Python 3.7
+- MySQL
 ### Libraries
 -
 -
@@ -18,7 +19,8 @@ Also learning how to use git and GitHub.
 ## Features
 
 ## Status
-Beginning, in progress...
+Beginning, in progress...  
+Difficulties converting the data into MySQL.
 
 ## Sources and inspiration
 Dataset: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016  
