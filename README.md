@@ -2,7 +2,7 @@
 Exploratory analysis of 1985-2016 suicide data (in progress).
 
 ## General info
-Simple analysis to explore the data world and learn some data analysis libraries' funcions (please forgive me my beginner level).
+Simple analysis to explore the data world and learn some data analysis Python libraries' functions (please forgive me my beginner level).
 Also learning how to use git and GitHub.
 
 ## Technologies
