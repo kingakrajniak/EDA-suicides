@@ -7,11 +7,13 @@ Also learning how to use git and GitHub.
 
 ## Technologies
 - Python 3.7
-- MySQL
+- MySQL 8.0
+
 ### Libraries
--
--
--
+- NumPY
+- pandas
+- matplotlib
+- seaborn
 
 ## Setup
 
@@ -20,7 +22,7 @@ Also learning how to use git and GitHub.
 
 ## Status
 Beginning, in progress...  
-Difficulties converting the data into MySQL.
+Some data cleanup? in Python and a little bit of data exploration in SQL.
 
 ## Sources and inspiration
 Dataset: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016  
